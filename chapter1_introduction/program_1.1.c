@@ -1,3 +1,8 @@
+/* quick-find algorithm
+ * an array of integers with the property that p and q are connected
+ * if and only if the pth and qth array entries are equal
+*/
+
 # include <stdio.h>
 # define N 10000
 
