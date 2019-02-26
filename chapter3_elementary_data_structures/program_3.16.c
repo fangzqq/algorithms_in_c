@@ -16,4 +16,3 @@ int **malloc2d(int r, int c)
     
     return t;
 }
-
