@@ -265,8 +265,6 @@ We assume that a graph with V vertices and E edges is defined by _a set of E pai
 One straightforward method for representing a graph is to use a two-dimensional array, called an _adjacency matrix_. For the undirected graphs that we are considering, if there is an entry in row i and column j, then there also must be an entry in row j and column i, so the matrix is symmetric.
 
 
-
-
 ### c 语言中的 void 与 void 指针
 
 作者：Deeper Go
