@@ -181,3 +181,12 @@ Ex. `10**9` unions and finds with `10**9` objects:
 - supercomputer won't help much, good algorithm enables solution.
 
 ### applications
+
+steps to developing a usable algorithm:
+
+- model the problem
+- find an algorithm to solve it
+- fast enough? fits in memory?
+- if not, figure out why
+- find a way to address the problem
+- iterate until satisfied
