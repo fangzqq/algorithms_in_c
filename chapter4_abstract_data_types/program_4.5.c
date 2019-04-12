@@ -35,6 +35,6 @@ Item STACKpop()
     Item item = head->item;
     link t = head->next;
     free(head); head = t;
-    
+
     return item;
 }
